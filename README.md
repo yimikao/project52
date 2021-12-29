@@ -6,9 +6,9 @@ A project to write a small project everyweek. All projects are written in Golang
 
 ## Preface:
 
-I saw Evan Lin's [project52](https://github.com/kkdai/project52) and felt inspired. So, I hope I could learn something by doing the same challenge myself.
+I saw Evan Lin's [project52](https://github.com/yimikao/project52) and felt inspired. So, I hope I could learn something by doing the same challenge myself.
 
-## Constraint:
+## Constraints:
 
 Here are the constraints of Project52.
 
@@ -18,10 +18,10 @@ Here are the constraints of Project52.
 
 ## Progress (2021/12/28~2022/01/01)
 
-1. (12/28) [a fintech backend api](https://github.com/kkdai/goFBPages) 
+1. (12/28) [a fintech backend api](https://github.com/yimikao/go-fintech-app) 
 
 
-## Provide Idea or Encourage..
+## Provide Idea or Encourage...
 
 Please file an `issue` if you want to suggest a small project idea. (hopefully it could be done within one week.  :p ).
 
