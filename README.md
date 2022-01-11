@@ -1,7 +1,7 @@
 
 # Project52 Go Challenge
 
-A project to write a small project everyweek. All projects are written in Golang.
+A project to write a small project everyweek. All projects are written in Golang. I also plan on adding tests to up my testing game.
 
 
 ## Preface:
