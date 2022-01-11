@@ -16,9 +16,9 @@ Here are the constraints of Project52.
 
 - Don't need to create a brand new project, could rewrite some existing project. (but my own way, not allowed to fork and refine.)
 
-## Progress (2021/12/28~2022/01/01)
+## Progress (2022/01/01~2022/07/01)
 
-1. (12/28) [a fintech backend api](https://github.com/yimikao/go-fintech-app) 
+1. (01/01) [a fintech backend api](https://github.com/yimikao/go-fintech-app) 
 
 
 ## Provide Idea or Encourage...
