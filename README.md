@@ -19,6 +19,7 @@ Here are the constraints of Project52.
 ## Progress (2022/01/01~2022/07/01)
 
 1. (01/01) [a fintech backend api](https://github.com/yimikao/go-fintech-app) 
+1. (01/18~01/21) [a cli to manage expenses for different users](https://github.com/yimikao/accountant) 
 
 
 ## Provide Idea or Encourage...
