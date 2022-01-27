@@ -20,7 +20,7 @@ Here are the constraints of Project52.
 
 1. (01/01) [a fintech backend api](https://github.com/yimikao/go-fintech-app) 
 1. (01/18~01/21) [a cli to manage expenses for different users](https://github.com/yimikao/accountant) 
-2. (01/21~01/28) [a cli to manage expenses for different users](https://github.com/yimikao/github-client)
+2. (01/26~01/31) [a reddit clone](https://github.com/yimikao/reddit-clone)
 
 
 ## Provide Idea or Encourage...
